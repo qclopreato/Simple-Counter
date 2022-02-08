@@ -14,5 +14,4 @@ function event2(){
   console.log(count);
   document.getElementById(`number`).innerHTML = count;
   return;
-  
 }
